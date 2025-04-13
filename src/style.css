@@ -1,0 +1,111 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.container {
+  max-width: 800px;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+}
+
+.mood-selector {
+  margin-bottom: 2rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.2em;
+  color: #34495e;
+}
+
+select {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background-color: white;
+  cursor: pointer;
+}
+
+select:focus {
+  outline: none;
+  border-color: #3498db;
+}
+
+.quote-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quote-text {
+  font-size: 1.5em;
+  margin-bottom: 1rem;
+  font-style: italic;
+  color: #2c3e50;
+}
+
+.quote-author {
+  font-size: 1.1em;
+  color: #7f8c8d;
+}
+
+/* Mood-specific themes */
+body.mood-happy {
+  background-color: #fff4e0;
+}
+
+body.mood-sad {
+  background-color: #e8f4f8;
+}
+
+body.mood-motivated {
+  background-color: #fff0f0;
+}
+
+body.mood-relaxed {
+  background-color: #f0f7f4;
+}
+
+body.mood-energetic {
+  background-color: #ffe6e6;
+}
+
+body.mood-peaceful {
+  background-color: #e6f3ff;
+}
+
+body.mood-anxious {
+  background-color: #f2e6ff;
+}
+
+body.mood-grateful {
+  background-color: #e6ffe6;
+}
+
+body.mood-creative {
+  background-color: #fff2e6;
+}

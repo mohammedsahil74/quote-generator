@@ -1,0 +1,740 @@
+{
+  "happy": [
+    {
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    {
+      "text": "The most wasted of all days is one without laughter.",
+      "author": "E.E. Cummings"
+    },
+    {
+      "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius"
+    },
+    {
+      "text": "Be happy for this moment. This moment is your life.",
+      "author": "Omar Khayyam"
+    },
+    {
+      "text": "Count your age by friends, not years. Count your life by smiles, not tears.",
+      "author": "John Lennon"
+    },
+    {
+      "text": "Happiness is a warm puppy.",
+      "author": "Charles M. Schulz"
+    },
+    {
+      "text": "The secret of being happy is accepting where you are in life and making the most out of everyday.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Happiness is not in the mere possession of money; it lies in the joy of achievement.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "text": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "text": "Happiness is a direction, not a place.",
+      "author": "Sydney J. Harris"
+    },
+    {
+      "text": "The best way to cheer yourself is to try to cheer someone else up.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "If you want to be happy, be.",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "text": "Happiness is a choice that requires effort at times.",
+      "author": "Aeschylus"
+    },
+    {
+      "text": "A smile is happiness you'll find right under your nose.",
+      "author": "Tom Wilson"
+    },
+    {
+      "text": "The greatest happiness of life is the conviction that we are loved.",
+      "author": "Victor Hugo"
+    },
+    {
+      "text": "Happiness is not a goal; it is a by-product.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "The most important thing is to enjoy your life—to be happy—it's all that matters.",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "text": "Happiness is letting go of what you think your life is supposed to look like.",
+      "author": "Unknown"
+    },
+    {
+      "text": "The key to being happy is knowing you have the power to choose what to accept and what to let go.",
+      "author": "Dodinsky"
+    }
+  ],
+  "sad": [
+    {
+      "text": "Even the darkest night will end and the sun will rise.",
+      "author": "Victor Hugo"
+    },
+    {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The pain you feel today is the strength you feel tomorrow.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Sometimes you have to experience the bad, so you can learn to appreciate the good things that enter your life.",
+      "author": "Leon Brown"
+    },
+    {
+      "text": "The way I see it, if you want the rainbow, you gotta put up with the rain.",
+      "author": "Dolly Parton"
+    },
+    {
+      "text": "Life is not about waiting for the storm to pass, it's about learning to dance in the rain.",
+      "author": "Vivian Greene"
+    },
+    {
+      "text": "The greatest happiness is to scatter your enemy and drive him before you.",
+      "author": "Genghis Khan"
+    },
+    {
+      "text": "Sadness flies away on the wings of time.",
+      "author": "Jean de La Fontaine"
+    },
+    {
+      "text": "The good life is not one immune to sadness but one in which suffering contributes to our development.",
+      "author": "Alain de Botton"
+    },
+    {
+      "text": "Tears are words that need to be written.",
+      "author": "Paulo Coelho"
+    },
+    {
+      "text": "The walls we build around us to keep sadness out also keeps out the joy.",
+      "author": "Jim Rohn"
+    },
+    {
+      "text": "Behind every beautiful thing, there's some kind of pain.",
+      "author": "Bob Dylan"
+    },
+    {
+      "text": "The heart will break, but broken live on.",
+      "author": "Lord Byron"
+    },
+    {
+      "text": "Sadness is but a wall between two gardens.",
+      "author": "Khalil Gibran"
+    },
+    {
+      "text": "Every human walks around with a certain kind of sadness. They may not show it, but it's there.",
+      "author": "Taraji P. Henson"
+    },
+    {
+      "text": "Some days are just bad days, that's all.",
+      "author": "Unknown"
+    },
+    {
+      "text": "The word 'happy' would lose its meaning if it were not balanced by sadness.",
+      "author": "Carl Jung"
+    },
+    {
+      "text": "Sadness gives depth. Happiness gives height. Sadness gives roots. Happiness gives branches.",
+      "author": "Osho"
+    },
+    {
+      "text": "The deeper that sorrow carves into your being, the more joy you can contain.",
+      "author": "Khalil Gibran"
+    },
+    {
+      "text": "There are moments when I wish I could roll back the clock and take all the sadness away, but I have a feeling that if I did, the joy would be gone as well.",
+      "author": "Nicholas Sparks"
+    }
+  ],
+  "motivated": [
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "text": "The difference between try and triumph is just a little umph!",
+      "author": "Marvin Phillips"
+    },
+    {
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+      "author": "Roy T. Bennett"
+    },
+    {
+      "text": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vaughan"
+    },
+    {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "The harder you work, the luckier you get.",
+      "author": "Gary Player"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    }
+  ],
+  "relaxed": [
+    {
+      "text": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "text": "The time to relax is when you don't have time for it.",
+      "author": "Sydney J. Harris"
+    },
+    {
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha"
+    },
+    {
+      "text": "Sometimes the most productive thing you can do is relax.",
+      "author": "Mark Black"
+    },
+    {
+      "text": "Your calm mind is the ultimate weapon against your challenges.",
+      "author": "Bryant McGill"
+    },
+    {
+      "text": "Take rest; a field that has rested gives a bountiful crop.",
+      "author": "Ovid"
+    },
+    {
+      "text": "The time to relax is when you don't have time for it.",
+      "author": "Jim Goodwin"
+    },
+    {
+      "text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+      "author": "Anne Lamott"
+    },
+    {
+      "text": "Tension is who you think you should be. Relaxation is who you are.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "text": "There is more to life than increasing its speed.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Rest is not idleness, and to lie sometimes on the grass under trees on a summer's day, listening to the murmur of the water, or watching the clouds float across the sky, is by no means a waste of time.",
+      "author": "John Lubbock"
+    },
+    {
+      "text": "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+      "author": "Etty Hillesum"
+    },
+    {
+      "text": "Slow down and everything you are chasing will come around and catch you.",
+      "author": "John De Paola"
+    },
+    {
+      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James"
+    },
+    {
+      "text": "Don't underestimate the value of doing nothing, of just going along, listening to all the things you can't hear, and not bothering.",
+      "author": "Winnie the Pooh"
+    },
+    {
+      "text": "Life isn't as serious as the mind makes it out to be.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "text": "Relax. No one else knows what they're doing either.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Take a deep breath. It's just a bad day, not a bad life.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "The quieter you become, the more you can hear.",
+      "author": "Ram Dass"
+    }
+  ],
+  "energetic": [
+    {
+      "text": "Energy and persistence conquer all things.",
+      "author": "Benjamin Franklin"
+    },
+    {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "text": "The energy of the mind is the essence of life.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller"
+    },
+    {
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "text": "Action is the foundational key to all success.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "text": "The future depends on what you do today.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "text": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "text": "The harder you work, the luckier you get.",
+      "author": "Gary Player"
+    },
+    {
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh"
+    },
+    {
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "text": "Dream big and dare to fail.",
+      "author": "Norman Vaughan"
+    },
+    {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "The difference between try and triumph is just a little umph!",
+      "author": "Marvin Phillips"
+    },
+    {
+      "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar"
+    }
+  ],
+  "peaceful": [
+    {
+      "text": "Peace begins with a smile.",
+      "author": "Mother Teresa"
+    },
+    {
+      "text": "Serenity is not freedom from the storm, but peace amid the storm.",
+      "author": "Unknown"
+    },
+    {
+      "text": "In the midst of movement and chaos, keep stillness inside of you.",
+      "author": "Deepak Chopra"
+    },
+    {
+      "text": "Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.",
+      "author": "Wayne W. Dyer"
+    },
+    {
+      "text": "When you do the right thing, you get the feeling of peace and serenity associated with it.",
+      "author": "Roy T. Bennett"
+    },
+    {
+      "text": "Peace is liberty in tranquility.",
+      "author": "Marcus Tullius Cicero"
+    },
+    {
+      "text": "Nobody can bring you peace but yourself.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Peace comes from being able to contribute the best that we have, and all that we are, toward creating a world that supports everyone.",
+      "author": "Hafsat Abiola"
+    },
+    {
+      "text": "If you are depressed you are living in the past. If you are anxious you are living in the future. If you are at peace you are living in the present.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "Do not let the behavior of others destroy your inner peace.",
+      "author": "Dalai Lama"
+    },
+    {
+      "text": "Peace is a journey of a thousand miles and it must be taken one step at a time.",
+      "author": "Lyndon B. Johnson"
+    },
+    {
+      "text": "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.",
+      "author": "Eckhart Tolle"
+    },
+    {
+      "text": "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.",
+      "author": "Ronald Reagan"
+    },
+    {
+      "text": "When you make peace with yourself, you make peace with the world.",
+      "author": "Maha Ghosananda"
+    },
+    {
+      "text": "Peace is not something you wish for; it's something you make, something you do, something you are, and something you give away.",
+      "author": "Robert Fulghum"
+    },
+    {
+      "text": "Inner peace begins the moment you choose not to allow another person or event to control your emotions.",
+      "author": "Pema Chodron"
+    },
+    {
+      "text": "Peace is always beautiful.",
+      "author": "Walt Whitman"
+    },
+    {
+      "text": "The life of inner peace, being harmonious and without stress, is the easiest type of existence.",
+      "author": "Norman Vincent Peale"
+    },
+    {
+      "text": "Learning to ignore things is one of the great paths to inner peace.",
+      "author": "Robert J. Sawyer"
+    },
+    {
+      "text": "Peace is not merely a distant goal that we seek, but a means by which we arrive at that goal.",
+      "author": "Martin Luther King Jr."
+    }
+  ],
+  "anxious": [
+    {
+      "text": "Anxiety does not empty tomorrow of its sorrows, but only empties today of its strength.",
+      "author": "Charles Spurgeon"
+    },
+    {
+      "text": "You don't have to control your thoughts. You just have to stop letting them control you.",
+      "author": "Dan Millman"
+    },
+    {
+      "text": "Trust yourself. You've survived a lot, and you'll survive whatever is coming.",
+      "author": "Robert Tew"
+    },
+    {
+      "text": "Worry often gives a small thing a big shadow.",
+      "author": "Swedish Proverb"
+    },
+    {
+      "text": "Nothing diminishes anxiety faster than action.",
+      "author": "Walter Anderson"
+    },
+    {
+      "text": "Present fears are less than horrible imaginings.",
+      "author": "William Shakespeare"
+    },
+    {
+      "text": "Anxiety is a thin stream of fear trickling through the mind. If encouraged, it cuts a channel into which all other thoughts are drained.",
+      "author": "Arthur Somers Roche"
+    },
+    {
+      "text": "Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.",
+      "author": "Deepak Chopra"
+    },
+    {
+      "text": "Anxiety's like a rocking chair. It gives you something to do, but it doesn't get you very far.",
+      "author": "Jodi Picoult"
+    },
+    {
+      "text": "Don't let your mind bully your body into believing it must carry the burden of its worries.",
+      "author": "Astrid Alauda"
+    },
+    {
+      "text": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James"
+    },
+    {
+      "text": "Life is ten percent what you experience and ninety percent how you respond to it.",
+      "author": "Dorothy M. Neddermeyer"
+    },
+    {
+      "text": "Anxiety happens when you think you have to figure out everything all at once.",
+      "author": "Karen Salmansohn"
+    },
+    {
+      "text": "You can't always control what goes on outside, but you can always control what goes on inside.",
+      "author": "Wayne Dyer"
+    },
+    {
+      "text": "The way you tell your story to yourself matters.",
+      "author": "Amy Cuddy"
+    },
+    {
+      "text": "Anxiety was born in the very same moment as mankind. And since we will never be able to master it, we will have to learn to live with it—just as we have learned to live with storms.",
+      "author": "Paulo Coelho"
+    },
+    {
+      "text": "Just when you feel you have no time to relax, know that this is the moment you most need to make time to relax.",
+      "author": "Matt Haig"
+    },
+    {
+      "text": "Anxiety is one little tree in your forest. Step back and look at the whole forest.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+      "author": "William S. Burroughs"
+    },
+    {
+      "text": "Sometimes the most important thing in a whole day is the rest we take between two deep breaths.",
+      "author": "Etty Hillesum"
+    }
+  ],
+  "grateful": [
+    {
+      "text": "Gratitude turns what we have into enough.",
+      "author": "Aesop"
+    },
+    {
+      "text": "The more grateful I am, the more beauty I see.",
+      "author": "Mary Davis"
+    },
+    {
+      "text": "Gratitude is the fairest blossom which springs from the soul.",
+      "author": "Henry Ward Beecher"
+    },
+    {
+      "text": "When we focus on our gratitude, the tide of disappointment goes out and the tide of love rushes in.",
+      "author": "Kristin Armstrong"
+    },
+    {
+      "text": "Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow.",
+      "author": "Melody Beattie"
+    },
+    {
+      "text": "Gratitude is the healthiest of all human emotions.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "text": "When you are grateful, fear disappears and abundance appears.",
+      "author": "Tony Robbins"
+    },
+    {
+      "text": "Gratitude is not only the greatest of virtues but the parent of all others.",
+      "author": "Marcus Tullius Cicero"
+    },
+    {
+      "text": "The root of joy is gratefulness.",
+      "author": "David Steindl-Rast"
+    },
+    {
+      "text": "Gratitude unlocks the fullness of life.",
+      "author": "Melody Beattie"
+    },
+    {
+      "text": "Gratitude is the memory of the heart.",
+      "author": "Jean Baptiste Massieu"
+    },
+    {
+      "text": "When gratitude becomes your default setting, life changes.",
+      "author": "Nancy Leigh DeMoss"
+    },
+    {
+      "text": "Gratitude and attitude are not challenges; they are choices.",
+      "author": "Robert Braathe"
+    },
+    {
+      "text": "Gratitude is riches. Complaint is poverty.",
+      "author": "Doris Day"
+    },
+    {
+      "text": "Gratitude is the sign of noble souls.",
+      "author": "Aesop"
+    },
+    {
+      "text": "Gratitude is the most exquisite form of courtesy.",
+      "author": "Jacques Maritain"
+    },
+    {
+      "text": "Gratitude is a powerful catalyst for happiness.",
+      "author": "Amy Collette"
+    },
+    {
+      "text": "Gratitude is the ability to experience life as a gift.",
+      "author": "John Ortberg"
+    },
+    {
+      "text": "Gratitude makes everything enough.",
+      "author": "Unknown"
+    },
+    {
+      "text": "Gratitude is the wine for the soul. Go on. Get drunk.",
+      "author": "Rumi"
+    }
+  ],
+  "creative": [
+    {
+      "text": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou"
+    },
+    {
+      "text": "Creativity takes courage.",
+      "author": "Henri Matisse"
+    },
+    {
+      "text": "The worst enemy to creativity is self-doubt.",
+      "author": "Sylvia Plath"
+    },
+    {
+      "text": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+      "author": "Scott Adams"
+    },
+    {
+      "text": "To practice any art, no matter how well or badly, is a way to make your soul grow.",
+      "author": "Kurt Vonnegut"
+    },
+    {
+      "text": "The creative adult is the child who survived.",
+      "author": "Ursula K. Le Guin"
+    },
+    {
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "You see things and you say 'Why?' But I dream things that never were and I say 'Why not?'",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "text": "Creativity is inventing, experimenting, growing, taking risks, breaking rules, making mistakes, and having fun.",
+      "author": "Mary Lou Cook"
+    },
+    {
+      "text": "The chief enemy of creativity is good sense.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "text": "Creativity requires the courage to let go of certainties.",
+      "author": "Erich Fromm"
+    },
+    {
+      "text": "Every artist was first an amateur.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "Imagination is everything. It is the preview of life's coming attractions.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "To be creative means to be in love with life.",
+      "author": "Osho"
+    },
+    {
+      "text": "Creativity is a wild mind and a disciplined eye.",
+      "author": "Dorothy Parker"
+    },
+    {
+      "text": "Don't think. Thinking is the enemy of creativity.",
+      "author": "Ray Bradbury"
+    },
+    {
+      "text": "Creativity is the greatest expression of liberty.",
+      "author": "Bryant H. McGill"
+    },
+    {
+      "text": "The creative process is a process of surrender, not control.",
+      "author": "Julia Cameron"
+    }
+  ]
+}
