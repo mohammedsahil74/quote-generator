@@ -44,12 +44,15 @@ A dynamic web application that generates inspirational quotes based on your curr
 2. Click the generate button to get a quote that matches your mood
 3. Feel free to generate multiple quotes until you find one that resonates with you
 
+<<<<<<< HEAD
 ## Technologies Used
 
 - Vite
 - React
 - JavaScript
 - CSS
+=======
+>>>>>>> f3105d1c8670db1298702d1d5bbee75393363358
 
 ## Contributing
 
